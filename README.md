@@ -1,4 +1,3 @@
-### Hi there 👋
 ![alt text](@chemcodeprofessor.png)
 
 
