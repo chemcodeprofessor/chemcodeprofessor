@@ -1,5 +1,10 @@
 ![alt text](@chemcodeprofessor.png)
+##Biography
+Dr. Khalid El Akri is a highly accomplished professor and researcher with a PhD in organic chemistry and drug design. With over 10 years of experience in academia, he has earned a reputation as one of the brightest minds in her field. Dr. khalid El akri published numerous scholarly papers and has delivered engaging lectures on the subjects of drug design, organic chemistry.
 
+Dr. Akri's expertise extends beyond the classroom and laboratory. he was also an accomplished business development manager with a background in the medical equipment industry. Drawing on his unique set of skills and knowledge, Dr. Akri has developed and implemented successful sales strategies, built and maintained client relationships, and managed budgets.
+
+As a well-rounded individual, Dr. Akri brings a unique perspective to his work and is able to bridge the gap between academia and industry. He is passionate about using her knowledge and expertise to make a positive impact on society and is dedicated to training the next generation of scientists and researchers.
 
 <!--
 **chemcodeprofessor/chemcodeprofessor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
