@@ -1,6 +1,7 @@
 ![alt text](sialidase.png)
 ![alt text](@chemcodeprofessor2.png)
 ![alt text](python_projects.png)
+![alt text](dyma1.png)
 ## Biography
 Dr. Khalid El Akri is an accomplished professor and researcher with a PhD in organic chemistry and drug design. With over 10 years of experience in academia, he has earned a reputation as one of the topest in his field. Dr. Akri published numerous scholarly papers and has delivered engaging lectures on the subjects of drug design, organic chemistry.
 
