@@ -1,9 +1,11 @@
 ![alt text](CCR5.png)
-## Intro
+#### Introduction
 Human Immunodeficiency Virus (HIV) is a major global health challenge, with millions of people infected and affected worldwide. Despite the availability of antiretroviral therapy, the emergence of drug resistance and the side effects of these drugs have limited their efficacy. Therefore, there is an urgent need for the development of new drugs with novel mechanisms of action. One such approach is to target the C-C chemokine receptor type 5 (CCR5), a co-receptor for HIV entry into host cells. In recent years, the design, synthesis, and characterization of new bioactive compounds as inhibitors of CCR5 have emerged as a promising strategy for the development of new antiretroviral agents.
+
 ![alt text](sialidase.png)
-## Intro
+## Introduction
 Inhibiting sialidase is important because sialidase is an enzyme that plays a crucial role in the life cycle of many viruses, including influenza virus. By inhibiting sialidase, the spread of the virus can be slowed or stopped. Additionally, sialidase is also involved in many other biological processes, such as cell signaling and the immune response. Inhibiting sialidase can therefore have potential therapeutic applications beyond antiviral treatments. The design, synthesis, and characterization of new bioactive compounds as inhibitors of sialidase have become an exciting area of research in drug development. Sialidases are a family of enzymes that play a crucial role in the pathogenesis of various diseases, including cancer, influenza, and bacterial infections. The inhibition of sialidase activity has emerged as a promising therapeutic strategy for the treatment of these diseases. In this postdoc article, we will discuss the use of computational methods, innovative synthetic routes, and advanced analytical techniques in the design, synthesis, and characterization of new bioactive compounds as inhibitors of sialidase.
+
 ![alt text](@chemcodeprofessor2.png)
 ![alt text](python_projects.png)
 ![alt text](dyma1.png)
