@@ -1,3 +1,4 @@
+![alt text](CCR5.png)
 ![alt text](sialidase.png)
 ![alt text](@chemcodeprofessor2.png)
 ![alt text](python_projects.png)
